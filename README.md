@@ -1,4 +1,6 @@
 # game-server-map
+
+## DEPRECATED
 Map of the Heartless Gaming game server.
 
-Not sure if this repo will stay as I mat prefer do a monorepo over at gmae-server-status.
+This repo has been merged in the [game-server-status](https://github.com/heartless-gaming/game-server-status) json folder.
